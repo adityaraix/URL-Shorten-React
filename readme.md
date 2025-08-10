@@ -10,7 +10,7 @@ URL Shortify is a simple, full-stack web application built with the MERN stack (
 
 <b>Visit Tracking:</b> The admin dashboard tracks and displays how many times each short link has been visited.
 
-<h2>Tech Stack</h2>h2>
+<h2>Tech Stack</h2>
 Frontend: React, Vite, Axios
 
 Backend: Node.js, Express.js
@@ -46,7 +46,7 @@ cd URL-Shorten-React
 
 
 
-Setup the Backend:
+<h2>Setup the Backend:</h2>
 
 # Navigate to the backend folder
 cd url-shortener-backend
