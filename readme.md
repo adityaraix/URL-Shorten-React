@@ -1,7 +1,7 @@
 <h1>URL Shortify - A MERN Stack URL Shortener </h1>
 URL Shortify is a simple, full-stack web application built with the MERN stack (MongoDB, Express, React, Node.js) that allows users to shorten long URLs into a more manageable format. It also includes an admin dashboard to track the usage of each shortened link.
 
-<h2>Features</h2>h2>
+<h2>Features</h2>
 <b>Shorten URLs:</b> Convert any valid long URL into a short, unique link.
 
 <b>Seamless Redirects:</b> Visiting a shortened link will instantly redirect the user to the original URL.
