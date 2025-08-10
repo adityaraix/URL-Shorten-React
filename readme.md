@@ -109,7 +109,7 @@ npm run dev
 
 
 
-The frontend application will be available at http://localhost:5173
+The frontend application will be available at http://localhost:5173 (or another port specified by Vite).
 
 API Routes
 The application uses these main routes:
